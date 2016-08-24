@@ -1,2 +1,6 @@
 # HouseFind_ReactNative
-React Native项目。 搜索房子，包含首页，房子列表，房子详情展示
+React Native实现的项目。 搜索房子包含首页，房子列表，房子详情展示
+
+![项目预览]
+(https://github.com/akixie/HouseFind_ReactNative/blob/master/property.gif)
+
