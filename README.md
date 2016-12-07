@@ -1,5 +1,5 @@
 # HouseFind_ReactNative
-React Native实现的项目。 搜索房子包含首页，房子列表，房子详情展示
+React Native demo,参考网络文章修改搭建
 
 ## 项目Gif预览如下：
 ![项目预览]
