@@ -1,6 +1,5 @@
-# HouseFind_ReactNative
-React Native demo,参考网络技术文章修改搭建
+# ReactNative
+React Native demo,
 
-## 项目Gif预览如下：
-![项目预览](https://github.com/akixie/HouseFind_ReactNative/blob/master/property.gif)
+
 
